@@ -1,0 +1,14 @@
+{
+"articles":[
+    {"id":1,"img":"./assets/images/image-retro-pcs.jpg","title":"Reviving Retro PCs","blurb":"What happens when old PCs are given modern upgrades?"},
+    {"id":2,"img":"./assets/images/image-top-laptops.jpg","title":"Top 10 Laptops of 2022","blurb":"Our best picks for various needs and budgets."},
+    {"id":3,"img":"./assets/images/image-gaming-growth.jpg","title":"The Growth of Gaming","blurb":"How the pandemic has sparked fresh opportunities."}
+],
+
+"headlines":[
+    {"id":1,"title":"Hydrogen VS Electric Cars","blurb":"Will hydrogen-fueled cars ever catch up to EVs?"},
+    {"id":2,"title":"The Downsides of AI Artistry","blurb":"What are the possible adverse effects of on-demand AI image generation?"},
+    {"id":3,"title":"Is VC Funding Drying Up?","blurb":"Private funding by VC firms is down 50% YOY. We take a look at what that means."}
+]
+
+}
